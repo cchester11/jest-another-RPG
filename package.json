@@ -4,7 +4,8 @@
   "description": "##Summary  Use object oriented programming to create an RPG console application",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
